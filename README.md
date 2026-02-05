@@ -7,7 +7,7 @@
 
 ---
 
-## 🎯 Objective
+## Objective
 
 The goal of this project is to build a **neural world model** that learns compact latent representations of robot interaction scenes and predicts **future visual observations conditioned on actions**.
 
@@ -20,7 +20,7 @@ The project uses the **RoboNet dataset** and focuses on **open-loop rollout pred
 
 ---
 
-## 🧠 Approach
+## Approach
 
 The system is trained in two stages:
 
@@ -44,11 +44,11 @@ The system is trained in two stages:
 
 ---
 
-## 📊 Results Summary
+## Results Summary
 
 Evaluation performed on **8 validation samples**, each with **20-step open-loop rollouts**, using the sharpened VAE.
 
-### 🔢 Quantitative Metrics
+### Quantitative Metrics
 
 | Sample | Avg MSE | Avg PSNR (dB) | Avg SSIM | Notes |
 |------|--------|---------------|----------|------|
