@@ -2,7 +2,6 @@
 
 **Project Title**: Action-Conditioned Latent Dynamics for Future Frame Prediction  
 **Author**: Sayed Mahdi & Jayesh Nikam 
-
 **Status**: Completed Prototype  
 **Date**: February 2025  
 
